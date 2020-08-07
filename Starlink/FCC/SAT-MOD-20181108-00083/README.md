@@ -13,7 +13,7 @@ to relocate satellites previously authorized to operate at an altitude of
 
 Attachments
 ---
-[Frequency Bands Requested](1569856.pdf)
-[Technical Information](1569860.pdf)
-[Sched S Tech Report](1569902.pdf)
-[Legal Narrative](1569859.pdf)
+* [Frequency Bands Requested](1569856.pdf)
+* [Technical Information](1569860.pdf)
+* [Sched S Tech Report](1569902.pdf)
+* [Legal Narrative](1569859.pdf)
